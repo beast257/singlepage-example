@@ -1,0 +1,3 @@
+[submodule "electron"]
+	path = electron
+	url = git@github.com:beast257/electron-singlepage.git
