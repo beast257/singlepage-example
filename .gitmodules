@@ -1,3 +1,6 @@
 [submodule "electron"]
 	path = electron
 	url = git@github.com:beast257/electron-singlepage.git
+[submodule "app"]
+	path = app
+	url = git@github.com:beast257/react-tictactoe.git
