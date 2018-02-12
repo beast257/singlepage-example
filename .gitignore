@@ -1,0 +1,2 @@
+# Ignore log file from the app's latest run
+app.log
