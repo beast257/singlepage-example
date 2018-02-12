@@ -1,0 +1,17 @@
+{
+    "firstLoad": {
+        "path": "./app/ttt.html",
+        "isFile": true,
+        "isRelative": true
+    },
+    "window": {
+        "minWidth": 200,
+        "minHeight": 200,
+        "backgroundColor": "#eee",
+        "title": "SinglePage Example",
+        "autoHideMenuBar": true
+    },
+    "development": {
+        "enabled": false
+    }
+}
